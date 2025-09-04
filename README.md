@@ -1,5 +1,5 @@
 # BlockOCD
-BlockOCD is a 2D puzzle game designed to challenge your logic and strategic thinking. The player interacts with blocks in creative ways to solve puzzles, complete objectives
+**BlockOCD is a 2D puzzle game designed to challenge your logic and strategic thinking. The player interacts with blocks in creative ways to solve puzzles, complete objectives**
 ##✨ Features
 - Engaging 2D puzzle mechanics with intuitive gameplay
 - Built with Unity, C#
